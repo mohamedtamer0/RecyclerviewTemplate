@@ -13,10 +13,12 @@ RecyclerView makes it easy to efficiently display large sets of data. You supply
 
 Add the dependencies for the artifacts you need in the build.gradle file for your app or module:
 
+```gradle
 dependencies {
 
-    implementation "androidx.recyclerview:recyclerview:1.1.0" }
-
+    implementation "androidx.recyclerview:recyclerview:1.1.0" 
+    }
+```
 .
 
 2- create new class > $nameListAdapter >
